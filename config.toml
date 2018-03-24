@@ -1,4 +1,4 @@
-baseurl = "http://tishmen.io"
+baseurl = "/"
 title = "tishmen.io"
 theme = "coder"
 
