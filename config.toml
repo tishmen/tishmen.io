@@ -3,7 +3,7 @@ theme = "coder"
 
 [params]
     author = "Milan Topuzov"
-    description = "Milan Topuzov's personal website"
+    description = "Milan Topuzov - Python dev and big data enthusiast"
     keywords = "blog,developer,personal"
     info = "Python dev and big data enthusiast"
 
