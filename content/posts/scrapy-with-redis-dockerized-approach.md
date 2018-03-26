@@ -3,8 +3,6 @@ title: "Scrapy With Redis - Dockerized Approach"
 date: 2018-03-26T01:25:08+02:00
 ---
 
-# Scrapy With Redis - Dockerized Approach
-
 I've been checking out couple of open source projects lately for running Scrapy spiders in a distributed way. There are some really good projects out there like [Frontera](https://github.com/scrapinghub/frontera) and [Scrapy-Cluster](https://github.com/istresearch/scrapy-cluster). While I'm pretty sure they are doing a great job at distributed crawling, I wanted to build something simple that I can use for quickly hooking up my old spider codes. I'm a huge fan of Docker and microservices, so I decided to build something on top of it. Here is what I came up with.
 
 ## Installing Docker
